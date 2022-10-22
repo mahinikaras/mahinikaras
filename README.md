@@ -1,7 +1,3 @@
-# 💫 About Me:
- 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-al-mahin-46444011a) 
 
